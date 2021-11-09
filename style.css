@@ -45,11 +45,11 @@ section {
 }
 
 #first {
-    background-color: gray;
+    background-color: green;
 }
 
 #second {
-    background-color: darkgrey;
+    background-color: yellow;
 }
 
 #btn1 {
@@ -58,7 +58,7 @@ section {
     left: 50%;
     width: 200px;
     height: 200px;
-    background-color: darkgrey;
+    background-color: red;
     border-radius: 50%;
     transform: translate(-50%, -50%);
 }
